@@ -11,5 +11,8 @@ public class TestGit {
 		
 		System.out.println("test agin");
 		System.out.println("test agin");
+
+		String s="sssssssssss";
+		String B="BBBBBBBBBBB";
 	}
 }

@@ -16,5 +16,9 @@ public class TestGit {
 		String B="BBBBBBBBBBB";
 		
 		Integer age=26;
+
+
+		Integer i=15;
+
 	}
 }

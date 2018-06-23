@@ -8,5 +8,8 @@ public class TestGit {
 		String b="bbbbbbbbbbb";
 		System.out.println("����Git");
 		System.out.println("����Git");
+		
+		System.out.println("test agin");
+		System.out.println("test agin");
 	}
 }

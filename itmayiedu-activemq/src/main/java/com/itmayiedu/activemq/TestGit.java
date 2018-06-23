@@ -4,6 +4,8 @@ public class TestGit {
 	public static void main(String[] args) {
 		String s="123456"; 
 		String a="aaaaaaaaaaa";
-		System.out.println("²âÊÔGit");
+		String c="ccccccccccc";
+		String b="bbbbbbbbbbb";
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Git");
 	}
 }

@@ -7,5 +7,6 @@ public class TestGit {
 		String c="ccccccccccc";
 		String b="bbbbbbbbbbb";
 		System.out.println("����Git");
+		System.out.println("����Git");
 	}
 }

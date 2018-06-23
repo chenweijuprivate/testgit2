@@ -11,5 +11,7 @@ public class TestGit {
 
 		String s="sssssssssss";
 		String B="BBBBBBBBBBB";
+
+		Integer i=15;
 	}
 }

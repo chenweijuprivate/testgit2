@@ -12,11 +12,10 @@ public class TestGit {
 		System.out.println("test agin");
 		System.out.println("test agin");
 
-		String s="sssssssssss";
 		String B="BBBBBBBBBBB";
 		
 		Integer age=26;
-
+		String test="test ignore";
 
 		Integer i=15;
 

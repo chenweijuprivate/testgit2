@@ -23,10 +23,6 @@ public class TestGit {
 		System.out.println("����Git");
 		System.out.println("testMerge newBranch");
 
-
-
-		
 		System.out.println("test again");
-
 	}
 }

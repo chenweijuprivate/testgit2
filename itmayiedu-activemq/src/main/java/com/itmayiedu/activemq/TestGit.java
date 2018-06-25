@@ -2,6 +2,7 @@ package com.itmayiedu.activemq;
 
 public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("²âÊÔGit");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Git");
+		System.out.println("testMerge newBranch");
 	}
 }

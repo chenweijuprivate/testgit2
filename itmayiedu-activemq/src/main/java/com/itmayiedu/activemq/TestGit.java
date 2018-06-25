@@ -4,5 +4,7 @@ public class TestGit {
 	public static void main(String[] args) {
 		System.out.println("����Git");
 		System.out.println("testMerge newBranch");
+		
+		System.out.println("test again");
 	}
 }

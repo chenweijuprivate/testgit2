@@ -2,6 +2,7 @@ package com.itmayiedu.activemq;
 
 public class TestGit {
 	public static void main(String[] args) {
+
 		String s="123456"; 
 		String a="aaaaaaaaaaa";
 		String c="ccccccccccc";
@@ -18,5 +19,9 @@ public class TestGit {
 		String test="test ignore";
 		String testMerge="testMerge";
 		Integer i=15;
+
+		System.out.println("����Git");
+		System.out.println("testMerge newBranch");
+
 	}
 }

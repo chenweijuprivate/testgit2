@@ -14,11 +14,8 @@ public class TestGit {
 
 		String s="sssssssssss";
 		String B="BBBBBBBBBBB";
-		
 		Integer age=26;
 
-
 		Integer i=15;
-
 	}
 }
